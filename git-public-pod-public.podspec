@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
                           DESC
 
   s.homepage            = "https://github.com/james-chun-dev/git-public-pod-public"
-  s.license             = "Apache License, Version 2.0"
+  s.license             = { :type => 'MIT', :file => 'LICENSE' }
 
   s.author              = "James"
   s.platform            = :ios, "13.0"
@@ -19,6 +19,6 @@ Pod::Spec.new do |s|
   s.module_name         = "SDK1"
   s.source              = { :git => "https://github.com/james-chun-dev/git-public-pod-public.git", :tag => "#{s.version}" }
 
-  
+  s.source_files        = 'SDK1/SDK1/SDK1.h'
   
 end
