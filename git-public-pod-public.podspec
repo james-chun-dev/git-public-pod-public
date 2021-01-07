@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name                = "git-public-pod-public"
-  s.version             = "0.1.1"
+  s.version             = "0.1.2"
   s.summary             = "The LINE SDK for iOS Swift provides a modern way of implementing LINE APIs."
 
   s.description         = <<-DESC
