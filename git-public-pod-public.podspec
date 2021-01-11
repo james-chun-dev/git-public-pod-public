@@ -1,11 +1,11 @@
 
 Pod::Spec.new do |s|
   s.name                = "git-public-pod-public"
-  s.version             = "0.1.5"
-  s.summary             = "The LINE SDK for iOS Swift provides a modern way of implementing LINE APIs."
+  s.version             = "0.1.6"
+  s.summary             = "The SDK for iOS Swift provides a modern way of implementing APIs."
 
   s.description         = <<-DESC
-                          Developed in Swift, the LINE SDK for iOS Swift provides a modern way of implementing
+                          Developed in Swift, the SDK for iOS Swift provides a modern way of implementing
                           LINE APIs. The features included in this SDK will help you develop an iOS app with
                           engaging and personalized user experience.
                           DESC
