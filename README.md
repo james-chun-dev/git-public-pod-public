@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/line/line-sdk-ios-swift.svg?branch=master)](https://travis-ci.org/line/line-sdk-ios-swift)
+[![Platform](https://img.shields.io/cocoapods/p/git-public-pod-public.svg?style=flat)](https://cocoapods.org/pods/git-public-pod-public)
 [![Verison](https://img.shields.io/cocoapods/v/git-public-pod-public.svg)](https://cocoapods.org/pods/git-public-pod-public)
 
 # git-public-pod-public
